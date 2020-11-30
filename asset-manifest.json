@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Anikets08/music-waves/static/css/main.971717bd.chunk.css",
-    "main.js": "/Anikets08/music-waves/static/js/main.a5516ab7.chunk.js",
-    "main.js.map": "/Anikets08/music-waves/static/js/main.a5516ab7.chunk.js.map",
-    "runtime-main.js": "/Anikets08/music-waves/static/js/runtime-main.dcc20413.js",
-    "runtime-main.js.map": "/Anikets08/music-waves/static/js/runtime-main.dcc20413.js.map",
-    "static/js/2.252f9ca1.chunk.js": "/Anikets08/music-waves/static/js/2.252f9ca1.chunk.js",
-    "static/js/2.252f9ca1.chunk.js.map": "/Anikets08/music-waves/static/js/2.252f9ca1.chunk.js.map",
-    "static/js/3.8c4536d3.chunk.js": "/Anikets08/music-waves/static/js/3.8c4536d3.chunk.js",
-    "static/js/3.8c4536d3.chunk.js.map": "/Anikets08/music-waves/static/js/3.8c4536d3.chunk.js.map",
-    "index.html": "/Anikets08/music-waves/index.html",
-    "static/css/main.971717bd.chunk.css.map": "/Anikets08/music-waves/static/css/main.971717bd.chunk.css.map",
-    "static/js/2.252f9ca1.chunk.js.LICENSE.txt": "/Anikets08/music-waves/static/js/2.252f9ca1.chunk.js.LICENSE.txt"
+    "main.css": "/music-waves/static/css/main.971717bd.chunk.css",
+    "main.js": "/music-waves/static/js/main.a5516ab7.chunk.js",
+    "main.js.map": "/music-waves/static/js/main.a5516ab7.chunk.js.map",
+    "runtime-main.js": "/music-waves/static/js/runtime-main.2991a533.js",
+    "runtime-main.js.map": "/music-waves/static/js/runtime-main.2991a533.js.map",
+    "static/js/2.3be2f5ab.chunk.js": "/music-waves/static/js/2.3be2f5ab.chunk.js",
+    "static/js/2.3be2f5ab.chunk.js.map": "/music-waves/static/js/2.3be2f5ab.chunk.js.map",
+    "static/js/3.8c4536d3.chunk.js": "/music-waves/static/js/3.8c4536d3.chunk.js",
+    "static/js/3.8c4536d3.chunk.js.map": "/music-waves/static/js/3.8c4536d3.chunk.js.map",
+    "index.html": "/music-waves/index.html",
+    "static/css/main.971717bd.chunk.css.map": "/music-waves/static/css/main.971717bd.chunk.css.map",
+    "static/js/2.3be2f5ab.chunk.js.LICENSE.txt": "/music-waves/static/js/2.3be2f5ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcc20413.js",
-    "static/js/2.252f9ca1.chunk.js",
+    "static/js/runtime-main.2991a533.js",
+    "static/js/2.3be2f5ab.chunk.js",
     "static/css/main.971717bd.chunk.css",
     "static/js/main.a5516ab7.chunk.js"
   ]
