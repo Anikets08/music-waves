@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/music-waves/static/css/main.971717bd.chunk.css",
+    "main.css": "/music-waves/static/css/main.c3781c37.chunk.css",
     "main.js": "/music-waves/static/js/main.a5516ab7.chunk.js",
     "main.js.map": "/music-waves/static/js/main.a5516ab7.chunk.js.map",
     "runtime-main.js": "/music-waves/static/js/runtime-main.2991a533.js",
@@ -10,13 +10,13 @@
     "static/js/3.8c4536d3.chunk.js": "/music-waves/static/js/3.8c4536d3.chunk.js",
     "static/js/3.8c4536d3.chunk.js.map": "/music-waves/static/js/3.8c4536d3.chunk.js.map",
     "index.html": "/music-waves/index.html",
-    "static/css/main.971717bd.chunk.css.map": "/music-waves/static/css/main.971717bd.chunk.css.map",
+    "static/css/main.c3781c37.chunk.css.map": "/music-waves/static/css/main.c3781c37.chunk.css.map",
     "static/js/2.3be2f5ab.chunk.js.LICENSE.txt": "/music-waves/static/js/2.3be2f5ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2991a533.js",
     "static/js/2.3be2f5ab.chunk.js",
-    "static/css/main.971717bd.chunk.css",
+    "static/css/main.c3781c37.chunk.css",
     "static/js/main.a5516ab7.chunk.js"
   ]
 }
